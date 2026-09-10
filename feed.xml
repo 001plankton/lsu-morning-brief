@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LSU Morning Brief</title>
+    <link>https://001plankton.github.io/lsu-morning-brief/</link>
+    <language>en-us</language>
+    <copyright>Private feed for personal use</copyright>
+    <description>Daily LSU football morning brief — Tiger Droppings buzz, local radio/YouTube, and headlines. Unlisted personal feed.</description>
+    <itunes:author>LSU football news</itunes:author>
+    <itunes:summary>Daily LSU football morning brief for personal listening.</itunes:summary>
+    <itunes:category text="Sports"/>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://001plankton.github.io/lsu-morning-brief/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Thu Sep 10 — Expanded sample (SEC vote off, Tech week)</title>
+      <description>Expanded ~9 min sample: SEC expulsion vote off after Rousse letter, Tiger Droppings buzz, Off the Bench + After Further Review YouTube roundup, Louisiana Tech preview.</description>
+      <pubDate>Thu, 10 Sep 2026 17:57:00 +0000</pubDate>
+      <guid isPermaLink="false">8c68890af98413d1ab9d0025283cf089f402a217</guid>
+      <enclosure url="https://001plankton.github.io/lsu-morning-brief/episodes/2026-09-10-expanded-sample.mp3" length="3182688" type="audio/mpeg"/>
+      <itunes:duration>530</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
