@@ -11,6 +11,16 @@
     <itunes:category text="Sports"/>
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://001plankton.github.io/lsu-morning-brief/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+      <title>Voice test — female Hebert-style Cajun</title>
+      <description>Short accent test toward Bobby Hebert Cajun Cannon lane (female, not a clone).</description>
+      <pubDate>Fri, 11 Sep 2026 02:47:50 +0000</pubDate>
+      <guid isPermaLink="false">200aebe4ce5ee492897c134d3109ec986c84c7c4</guid>
+      <enclosure url="https://001plankton.github.io/lsu-morning-brief/episodes/2026-09-10-cajun-hebert-style-f-sample.mp3" length="522492" type="audio/mpeg"/>
+      <itunes:duration>33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     <item>
       <title>Thu Sep 10 — Expanded sample (SEC vote off, Tech week)</title>
       <description>Expanded ~9 min sample: SEC expulsion vote off after Rousse letter, Tiger Droppings buzz, Off the Bench + After Further Review YouTube roundup, Louisiana Tech preview.</description>
