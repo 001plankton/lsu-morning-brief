@@ -11,6 +11,17 @@
     <itunes:category text="Sports"/>
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://001plankton.github.io/lsu-morning-brief/feed.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>Mon Sep 14 — No. 7 LSU; Top-10 Armageddon vs Ole Miss</title>
+      <description>Poll Monday: LSU No. 7 AP & Coaches (1 first-place coaches vote), Ole Miss No. 8 AP / No. 9 Coaches — first Top-10 Magnolia Bowl since 1962. Tech 45-14 hangover (Leavitt 3 INTs; defense elite). TD buzz, Moscona Locked On + OTB/AFR roundup, LSU favored ~2.5 on road, GameDay Grove Sat 6:30 CT ABC.</description>
+      <pubDate>Mon, 14 Sep 2026 10:40:00 +0000</pubDate>
+      <guid isPermaLink="false">cc7fc159a9d97e44e1b4b238153824869eeb2ef2</guid>
+      <enclosure url="https://001plankton.github.io/lsu-morning-brief/episodes/2026-09-14.mp3" length="3206160" type="audio/mpeg"/>
+      <itunes:duration>534</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     <item>
       <title>Sun Sep 13 — Tech 45-14; Armageddon Week vs Ole Miss</title>
       <description>Morning-after: No. 8 LSU 45-14 over Louisiana Tech (Leavitt 344 yds/3 rush TDs/3 INTs; defense 140 yds, -3 rush, 7 sacks). TD buzz, OTB/AFR/Locked On roundup, GameDay headed to Oxford, No. 9 Ole Miss next Sat 6:30 CT on ABC.</description>
